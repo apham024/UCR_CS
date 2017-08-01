@@ -1,0 +1,174 @@
+Word Frequency Table: 
+a: 2, 7, 26, 29, 54, 122, 
+Frequency: 6
+achieve: 130, 
+Frequency: 1
+after: 44, 
+Frequency: 1
+all: 70, 127, 
+Frequency: 2
+alphabet: 25, 
+Frequency: 1
+alphabetical: 59, 
+Frequency: 1
+alternating: 15, 
+Frequency: 1
+an: 14, 
+Frequency: 1
+and: 28, 31, 100, 
+Frequency: 3
+appears: 77, 
+Frequency: 1
+as: 13, 
+Frequency: 1
+assume: 81, 
+Frequency: 1
+based: 113, 
+Frequency: 1
+becomes: 91, 98, 
+Frequency: 2
+below: 103, 
+Frequency: 1
+blank: 37, 
+Frequency: 1
+c: 3, 
+Frequency: 1
+case: 80, 120, 
+Frequency: 2
+consecutive: 21, 
+Frequency: 1
+contents: 12, 
+Frequency: 1
+digits: 40, 
+Frequency: 1
+distinct: 65, 
+Frequency: 1
+e: 20, 34, 
+Frequency: 2
+else: 36, 
+Frequency: 1
+entire: 49, 
+Frequency: 1
+etc: 43, 
+Frequency: 1
+everything: 35, 
+Frequency: 1
+file: 9, 50, 74, 90, 
+Frequency: 4
+find: 87, 97, 
+Frequency: 2
+first: 84, 
+Frequency: 1
+frequencies: 118, 
+Frequency: 1
+frequency: 56, 135, 
+Frequency: 2
+have: 46, 
+Frequency: 1
+i: 19, 33, 
+Frequency: 2
+in: 58, 72, 78, 88, 119, 
+Frequency: 5
+interprets: 10, 
+Frequency: 1
+it: 76, 
+Frequency: 1
+its: 11, 
+Frequency: 1
+letters: 22, 
+Frequency: 1
+like: 42, 
+Frequency: 1
+list: 126, 
+Frequency: 1
+lists: 68, 
+Frequency: 1
+location: 92, 99, 
+Frequency: 2
+locations: 71, 
+Frequency: 1
+must: 52, 
+Frequency: 1
+observed: 116, 
+Frequency: 1
+of: 17, 23, 121, 132, 
+Frequency: 4
+on: 102, 114, 
+Frequency: 2
+one: 62, 131, 
+Frequency: 2
+order: 60, 
+Frequency: 1
+output: 53, 
+Frequency: 1
+per: 64, 
+Frequency: 1
+program: 4, 
+Frequency: 1
+punctuation: 39, 
+Frequency: 1
+read: 47, 
+Frequency: 1
+reads: 6, 
+Frequency: 1
+row: 63, 
+Frequency: 1
+s: 137, 
+Frequency: 1
+second: 94, 
+Frequency: 1
+separators: 32, 
+Frequency: 1
+series: 16, 
+Frequency: 1
+should: 125, 
+Frequency: 1
+so: 101, 
+Frequency: 1
+space: 38, 
+Frequency: 1
+state: 108, 
+Frequency: 1
+symbols: 41, 
+Frequency: 1
+table: 57, 105, 
+Frequency: 2
+text: 8, 
+Frequency: 1
+that: 5, 67, 73, 82, 129, 
+Frequency: 5
+the: 24, 48, 69, 83, 89, 93, 104, 109, 133, 
+Frequency: 9
+their: 115, 
+Frequency: 1
+this: 79, 
+Frequency: 1
+tie: 123, 
+Frequency: 1
+top: 110, 
+Frequency: 1
+two: 111, 
+Frequency: 1
+value: 136, 
+Frequency: 1
+where: 75, 
+Frequency: 1
+will: 107, 
+Frequency: 1
+winning: 134, 
+Frequency: 1
+with: 61, 
+Frequency: 1
+word: 55, 66, 85, 95, 117, 
+Frequency: 5
+words: 18, 112, 128, 
+Frequency: 3
+write: 1, 
+Frequency: 1
+you: 45, 51, 86, 96, 106, 124, 
+Frequency: 6
+z: 27, 30, 
+Frequency: 2
+
+This single most-frequent word appears 9 times: the
+These second most-frequent word(s) appears 6 times: you
