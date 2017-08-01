@@ -1,2 +1,2 @@
 # UCR_CS
-This consists of my projects from CS classes at UCR.
+Currently consists of my projects from CS 61 at UCR.
