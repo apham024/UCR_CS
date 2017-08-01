@@ -1,2 +1,2 @@
 # UCR_CS
-Currently consists of my projects from CS 61 at UCR.
+A collection of my labs and assignments at the University of California, Riverside -- for educational uses only
